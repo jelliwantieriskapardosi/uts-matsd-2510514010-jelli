@@ -1,6 +1,6 @@
 % =====================================================
 %  UTS Matematika Sains Data — Semester Genap 2025/2026
-%  Soal 6 — Optimasi Harga (FINAL FIX)
+%  Soal 6 — Optimasi Harga 
 %  ---------------------------------------------------
 %  Nama  : Jellli Wanti Eriska Pardosi
 %  NIM   : 2510514010
